@@ -10,7 +10,6 @@ def SIU5(m):
     assert len(m) % BLOCKSIZE == 0
     init = m[:8]
     prod = m[8:]
-    # print(prod)
     if init == b'\x00\x00\x00\x00\x00\x00\x00\x00':
         init = rand_state
     if prod == b'':
