@@ -7,13 +7,13 @@
   - Multi-tap Phone (SMS)
   - Some image cipher
   - XOR with somekey
-  - Carmichael toitent
+  - Carmichael toitent:
   - Crib dragging
   - Custom Encryption L1
   - Custom Encryption L2
-  - Hash Collision (Custom hashing algorithm)
-  - ECDSA nonce reuse
-  - RSA Weiner's Attack
+  - Hash Collision (Custom hashing algorithm):
+  - ECDSA nonce reuse 
+  - RSA Weiner's Attack:
   - Bruteforce time
   - Network chall bruteforce key
   - Latex
