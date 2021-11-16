@@ -4,7 +4,6 @@
   - Base64 n times
   - Piet
   - Baconian Cipher
-  - Vigenere
   - Multi-tap Phone (SMS)
   - Some image cipher
   - XOR with somekey
@@ -18,11 +17,12 @@
   - Bruteforce time
   - Network chall bruteforce key
   - Latex
+  - Decode/Decrypt Challenges from network
 
 - Misc:
   - Zip2John zip file
   - 
 
 - Programming:
-  - Zip2John zip file
+  - Head or Tails
   - 
