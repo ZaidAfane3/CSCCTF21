@@ -12,7 +12,6 @@
   - Custom Encryption L1
   - Custom Encryption L2
   - Hash Collision (Custom hashing algorithm):
-  - ECDSA nonce reuse 
   - RSA Weiner's Attack:
   - Bruteforce time:
   - Network chall bruteforce key:
@@ -24,9 +23,9 @@
   - 
 
 - Programming:
-  - Head or Tails
-  - Calculator
-  - HiLo
+  - Head or Tails:
+  - Calculator:
+  - HiLo:
 
 - RE:
   - Python compiled + Obfuscation?
