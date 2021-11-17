@@ -14,10 +14,10 @@
   - Hash Collision (Custom hashing algorithm):
   - ECDSA nonce reuse 
   - RSA Weiner's Attack:
-  - Bruteforce time
+  - Bruteforce time:
   - Network chall bruteforce key
   - Latex
-  - Decode/Decrypt Challenges from network
+  - Decode/Decrypt Challenges from network:
 
 - Misc:
   - Zip2John zip file
@@ -25,4 +25,7 @@
 
 - Programming:
   - Head or Tails
-  - 
+  - Calculator
+
+- RE:
+  - Python compiled + Obfuscation?
