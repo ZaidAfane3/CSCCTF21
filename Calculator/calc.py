@@ -6,7 +6,7 @@ import os
 x = os.urandom(16)
 random.seed(x)
 
-operations = ['+', '-', '*', '//', '^']
+operations = ['+', '-', '*', '//']
 
 print('NEED TO SOLVE SOME MATH RN!!!!!')
 print('SOLVE AS MUCH AS YOU CAN AND YOU WILL REAP WHAT YOU SOW!')
