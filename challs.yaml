@@ -15,8 +15,8 @@
   - ECDSA nonce reuse 
   - RSA Weiner's Attack:
   - Bruteforce time:
-  - Network chall bruteforce key
-  - Latex
+  - Network chall bruteforce key:
+  - Latex:
   - Decode/Decrypt Challenges from network:
 
 - Misc:
@@ -26,6 +26,7 @@
 - Programming:
   - Head or Tails
   - Calculator
+  - HiLo
 
 - RE:
   - Python compiled + Obfuscation?
