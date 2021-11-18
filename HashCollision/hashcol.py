@@ -30,9 +30,6 @@ print("Check out my Kickass Secure Hashing Algorithm 😎😎")
 
 h1 = bytes.fromhex(input("> ").strip())
 h2 = bytes.fromhex(input("> ").strip())
-
-print(SIU5(h1))
-print(SIU5(h2))
 assert h1 != h2
 assert SIU5(h1) == SIU5(h2)
 with open('flag.txt', 'r') as f:
