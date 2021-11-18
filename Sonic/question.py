@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import random
 import base64
 from Crypto.Util.number import *

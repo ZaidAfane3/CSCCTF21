@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 from Crypto.Util.number import *
 import os
 from Generator import generateKeys

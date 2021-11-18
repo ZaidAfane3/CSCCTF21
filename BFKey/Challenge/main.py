@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 from Crypto.Util import number
 from Crypto.Cipher import AES
 import os
