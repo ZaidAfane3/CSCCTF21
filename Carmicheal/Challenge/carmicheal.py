@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 from Crypto.Util.number import *
 
 p = getPrime(512)
