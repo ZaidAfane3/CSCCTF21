@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 from Crypto.Util.number import *
 import os
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
