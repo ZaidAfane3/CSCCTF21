@@ -1,4 +1,6 @@
 import random
+import os
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 odds = ['H','T']
 

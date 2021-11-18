@@ -1,5 +1,7 @@
 import random
 import time
+import os
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 print('Would you like to play a game? Y/N')
 x = input('> ')

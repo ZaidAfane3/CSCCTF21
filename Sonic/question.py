@@ -1,6 +1,8 @@
 import random
 import base64
 from Crypto.Util.number import *
+import os
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 with open('wordlist.txt', 'r') as f:
     ls = [line.strip() for line in f.readlines()]

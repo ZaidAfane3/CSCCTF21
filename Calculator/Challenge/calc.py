@@ -2,6 +2,7 @@
 import random
 import time
 import os
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 x = os.urandom(16)
 random.seed(x)

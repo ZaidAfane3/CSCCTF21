@@ -1,6 +1,7 @@
 from Crypto.Util import number
 from Crypto.Cipher import AES
 import os
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 def keygen():
     iv, key = [os.urandom(16) for _ in range(2)]

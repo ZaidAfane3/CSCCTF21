@@ -1,8 +1,8 @@
 from Crypto.Util.number import *
 import os
 from Generator import generateKeys
-
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
+
 e,n,d = generateKeys()
 priv = (d,n)
 pub = (e,n)
