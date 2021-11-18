@@ -8,6 +8,6 @@ RUN mkdir -p /app
 WORKDIR /app
 COPY Challenge .
 
-RUN chmod +x /app/script.py
+RUN chmod +x /app/script.sh
 
 EXPOSE 1234
