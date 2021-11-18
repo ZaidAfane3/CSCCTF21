@@ -10,6 +10,6 @@ COPY Challenge .
 
 RUN pip install pycrypto
 
-RUN chmod +x /app/hashcol.py
+RUN chmod +x /app/script.sh
 
 EXPOSE 1234
