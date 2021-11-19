@@ -1,7 +1,15 @@
-FROM python:3
+FROM ubuntu:latest
 
-RUN apt-get update 
-RUN apt-get install socat -y
+#Setup enviroment variables
+ENV TZ=Europe/Minsk
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezon
+ENV DEBIAN_FRONTEND noninteractive 
+ENV TERM xterm
+
+#Install Dependecies 
+RUN apt -y update && \
+apt install -y socat && \ 
+apt install -y python3-pip
 
 RUN mkdir -p /app
 
