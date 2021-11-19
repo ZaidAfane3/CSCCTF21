@@ -1,12 +1,12 @@
 # Challenges
 - Cryptography:
-  - Rot(N)
-  - Base64 n times
+  - Rot(N):
+  - Base64 n times:
   - Piet
-  - Baconian Cipher
-  - Multi-tap Phone (SMS)
+  - Baconian Cipher:
+  - Multi-tap Phone (SMS):
   - Some image cipher
-  - XOR with somekey
+  - XOR with somekey:
   - Carmichael toitent:
   - Crib dragging
   - Custom Encryption L1
