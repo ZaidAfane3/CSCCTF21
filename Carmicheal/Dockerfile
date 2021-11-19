@@ -16,7 +16,7 @@ RUN mkdir -p /app
 WORKDIR /app
 COPY Challenge .
 
-RUN pip install pycrypto
+RUN pip install -U pycryptodome
 
 RUN chmod +x /app/script.sh
 
